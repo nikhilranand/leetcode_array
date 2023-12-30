@@ -1,2 +1,2 @@
-# leetcode_self
+# leetcode_array
 Solution of leetcode qs
